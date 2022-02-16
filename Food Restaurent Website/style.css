@@ -142,7 +142,7 @@ header .navbar a:hover{
       transform: translateY(0rem);
   }  
   50%{
-    transform: translateY(3rem);
+    transform: translateY(2.5rem);
 }  
 }
 
